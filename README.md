@@ -5,7 +5,7 @@ Software Developer with rock-solid experience in building complex applications w
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on cool projects in the fitness tech space
 - 🖼️ Check out my [portfolio](https://nickhall-portfolio.vercel.app/) 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nickhall122/), [email](mailto:nickhall122@gmail.com?subject=Hey there)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nickhall122/), [email](mailto:nickhall122@gmail.com?subject=Hey)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've been to 42 countries
 
