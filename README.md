@@ -1,11 +1,11 @@
 ### Hi there 👋
 Software Developer with rock-solid experience in building complex applications with JavaScript, TypeScript, React, Next.js, Node.js and other tools in the JavaScript ecosystem. Prefer the AWS ecosystem for deploying and other services.
 
-- 🔭 I’m currently working @ [Dawn Patrol](https://www.dawnpatrol.cloud/)
+- 🔭 I’m currently working @ [Dawn Patrol](https://www.dawnpatrol.cloud/){:target="_blank"}
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on cool projects in the fitness tech space
-- 🖼️ Check out my [portfolio](https://nickhall-portfolio.vercel.app/) 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nickhall122/), [email](mailto:nickhall122@gmail.com?subject=Hey)
+- 🖼️ Check out my [portfolio](https://nickhall-portfolio.vercel.app/){:target="_blank"}
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nickhall122/){:target="_blank"}, [email](mailto:nickhall122@gmail.com?subject=Hey)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've been to 42 countries
 
