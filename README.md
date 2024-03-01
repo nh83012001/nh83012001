@@ -11,4 +11,5 @@ Software Developer with rock-solid experience in building complex applications w
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nickhall122/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've been to 42 countries
+
 -->
