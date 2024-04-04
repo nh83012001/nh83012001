@@ -1,5 +1,5 @@
 ### Hi there 👋
-Software Developer with rock-solid experience in building complex applications with JavaScript, TypeScript, React, Next.js, Node.js and other tools in the JavaScript ecosystem. Prefer the AWS ecosystem for deploying and other services.
+Software Developer with rock-solid experience in building complex applications with JavaScript, TypeScript, React, Next.js, and Node.js. Prefer the AWS ecosystem for deploying and other services.
 
 - 🔭 I’m currently working @ [Dawn Patrol](https://www.dawnpatrol.cloud/)
 - 🌱 I’m currently learning Swift
